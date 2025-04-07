@@ -1,0 +1,476 @@
+{
+    "results": [
+        {
+            "geopoint": {
+                "__type": "GeoPoint",
+                "latitude": 51.165704,
+                "longitude": 7.089701
+            },
+            "sourceId": "13",
+            "name": "Haltepunkt Mitte",
+            "shortName": "HP Mitte",
+            "district": "Mitte",
+            "city": "Solingen",
+            "image": "https://geoportal.solingen.de/app/res/wetter/13.jpg",
+            "dataProvider": "RUDIS",
+            "source": "https://rudis.solingen.de",
+            "maintenance": false,
+            "createdAt": "2022-10-01T08:52:44.497Z",
+            "updatedAt": "2023-01-04T10:38:08.359Z",
+            "values": {
+                "lufttemperatur": {
+                    "unit": "\u00b0C",
+                    "name": "Temperatur",
+                    "value": 7.6
+                },
+                "relative_luftfeuchte": {
+                    "unit": "%",
+                    "name": "Luftfeuchtigkeit",
+                    "value": 100
+                },
+                "realtiver_luftdruck": {
+                    "unit": "hPa",
+                    "name": "Luftdruck",
+                    "value": 1018.1
+                },
+                "windgeschwindigkeit_kmh": {
+                    "unit": "km/h",
+                    "name": "Windgeschwindigkeit",
+                    "value": 3276.7
+                },
+                "windrichtung": {
+                    "unit": "\u00b0",
+                    "name": "Windrichtung",
+                    "value": 3276.7
+                },
+                "niederschlagsintensitaet": {
+                    "unit": "mm/h",
+                    "name": "Niederschlag",
+                    "value": 1.8
+                },
+                "globalstrahlung": {
+                    "unit": "W/qm",
+                    "name": "Globalstrahlung",
+                    "value": 17
+                },
+                "versorgungsspannung": {
+                    "unit": "V",
+                    "name": "Versorgungsspannung",
+                    "value": 24.8
+                },
+                "globalstrahlung_avg": {
+                    "unit": "W/qm",
+                    "name": "Globalstrahlung",
+                    "value": 17.61
+                },
+                "versorgungsspannung_avg": {
+                    "unit": "V",
+                    "name": "Versorgungsspannung",
+                    "value": 21.45
+                },
+                "lufttemperatur_avg": {
+                    "unit": "\u00b0C",
+                    "name": "Temperatur",
+                    "value": 10.19
+                },
+                "relative_luftfeuchte_avg": {
+                    "unit": "%",
+                    "name": "Luftfeuchtigkeit",
+                    "value": 85.9
+                },
+                "realtiver_luftdruck_avg": {
+                    "unit": "hPa",
+                    "name": "Luftdruck",
+                    "value": 1022.78
+                },
+                "windgeschwindigkeit_kmh_avg": {
+                    "unit": "km/h",
+                    "name": "Windgeschwindigkeit",
+                    "value": 10.76
+                },
+                "windrichtung_avg": {
+                    "unit": "\u00b0",
+                    "name": "Windrichtung",
+                    "value": 92.64
+                },
+                "niederschlagsintensitaet_avg": {
+                    "unit": "mm/h",
+                    "name": "Niederschlag",
+                    "value": 0.83
+                },
+                "fahrbahn_oberflaechen_temperatur_avg": {
+                    "unit": "\u00b0C",
+                    "name": "Temperatur Fahrbahn",
+                    "value": 8.73
+                },
+                "wasserfilmhoehe_auf_oberflaeche_avg": {
+                    "unit": "\u00b5m",
+                    "name": "Wasserfilmh\u00f6he",
+                    "value": 34.02
+                },
+                "eisprozent_avg": {
+                    "unit": "%",
+                    "name": "Eisprozent",
+                    "value": 0
+                }
+            },
+            "dateObserved": {
+                "__type": "Date",
+                "iso": "2023-01-04T10:36:02.000Z"
+            },
+            "valueArray": [
+                {
+                    "unit": "\u00b0C",
+                    "value": 7.6,
+                    "name": "Temperatur",
+                    "type": "lufttemperatur"
+                },
+                {
+                    "unit": "%",
+                    "value": 100,
+                    "name": "Luftfeuchtigkeit",
+                    "type": "relative_luftfeuchte"
+                },
+                {
+                    "unit": "hPa",
+                    "value": 1018.1,
+                    "name": "Luftdruck",
+                    "type": "realtiver_luftdruck"
+                },
+                {
+                    "unit": "km/h",
+                    "value": 3276.7,
+                    "name": "Windgeschwindigkeit",
+                    "type": "windgeschwindigkeit_kmh"
+                },
+                {
+                    "unit": "\u00b0",
+                    "value": 3276.7,
+                    "name": "Windrichtung",
+                    "type": "windrichtung"
+                },
+                {
+                    "unit": "mm/h",
+                    "value": 1.8,
+                    "name": "Niederschlag",
+                    "type": "niederschlagsintensitaet"
+                },
+                {
+                    "unit": "W/qm",
+                    "value": 17,
+                    "name": "Globalstrahlung",
+                    "type": "globalstrahlung"
+                },
+                {
+                    "unit": "V",
+                    "value": 24.8,
+                    "name": "Versorgungsspannung",
+                    "type": "versorgungsspannung"
+                },
+                {
+                    "unit": "W/qm",
+                    "value": 17.61,
+                    "name": "Globalstrahlung",
+                    "type": "globalstrahlung_avg"
+                },
+                {
+                    "unit": "V",
+                    "value": 21.45,
+                    "name": "Versorgungsspannung",
+                    "type": "versorgungsspannung_avg"
+                },
+                {
+                    "unit": "\u00b0C",
+                    "value": 10.19,
+                    "name": "Temperatur",
+                    "type": "lufttemperatur_avg"
+                },
+                {
+                    "unit": "%",
+                    "value": 85.9,
+                    "name": "Luftfeuchtigkeit",
+                    "type": "relative_luftfeuchte_avg"
+                },
+                {
+                    "unit": "hPa",
+                    "value": 1022.78,
+                    "name": "Luftdruck",
+                    "type": "realtiver_luftdruck_avg"
+                },
+                {
+                    "unit": "km/h",
+                    "value": 10.76,
+                    "name": "Windgeschwindigkeit",
+                    "type": "windgeschwindigkeit_kmh_avg"
+                },
+                {
+                    "unit": "\u00b0",
+                    "value": 92.64,
+                    "name": "Windrichtung",
+                    "type": "windrichtung_avg"
+                },
+                {
+                    "unit": "mm/h",
+                    "value": 0.83,
+                    "name": "Niederschlag",
+                    "type": "niederschlagsintensitaet_avg"
+                },
+                {
+                    "unit": "\u00b0C",
+                    "value": 8.73,
+                    "name": "Temperatur Fahrbahn",
+                    "type": "fahrbahn_oberflaechen_temperatur_avg"
+                },
+                {
+                    "unit": "\u00b5m",
+                    "value": 34.02,
+                    "name": "Wasserfilmh\u00f6he",
+                    "type": "wasserfilmhoehe_auf_oberflaeche_avg"
+                },
+                {
+                    "unit": "%",
+                    "value": 0,
+                    "name": "Eisprozent",
+                    "type": "eisprozent_avg"
+                }
+            ],
+            "objectId": "CUnAIEoZSGJ72LKc"
+        },
+        {
+            "geopoint": {
+                "__type": "GeoPoint",
+                "latitude": 51.214941,
+                "longitude": 7.079187
+            },
+            "sourceId": "6166",
+            "name": "Abteiweg",
+            "shortName": "Abteiweg",
+            "district": "Gr\u00e4frath",
+            "city": "Solingen",
+            "image": "https://geoportal.solingen.de/app/res/wetter/6166.jpg",
+            "dataProvider": "RUDIS",
+            "source": "https://rudis.solingen.de",
+            "maintenance": false,
+            "createdAt": "2022-10-01T08:52:44.685Z",
+            "updatedAt": "2023-01-04T10:38:08.283Z",
+            "values": {
+                "lufttemperatur": {
+                    "unit": "\u00b0C",
+                    "name": "Temperatur",
+                    "value": 8.6
+                },
+                "relative_luftfeuchte": {
+                    "unit": "%",
+                    "name": "Luftfeuchtigkeit",
+                    "value": 100
+                },
+                "realtiver_luftdruck": {
+                    "unit": "hPa",
+                    "name": "Luftdruck",
+                    "value": 1017.9
+                },
+                "windgeschwindigkeit_kmh": {
+                    "unit": "km/h",
+                    "name": "Windgeschwindigkeit",
+                    "value": 54.8
+                },
+                "windrichtung": {
+                    "unit": "\u00b0",
+                    "name": "Windrichtung",
+                    "value": 323
+                },
+                "niederschlagsintensitaet": {
+                    "unit": "mm/h",
+                    "name": "Niederschlag",
+                    "value": 13.05
+                },
+                "globalstrahlung": {
+                    "unit": "W/qm",
+                    "name": "Globalstrahlung",
+                    "value": 18.1
+                },
+                "versorgungsspannung": {
+                    "unit": "V",
+                    "name": "Versorgungsspannung",
+                    "value": 23.9
+                },
+                "globalstrahlung_avg": {
+                    "unit": "W/qm",
+                    "name": "Globalstrahlung",
+                    "value": 17.61
+                },
+                "versorgungsspannung_avg": {
+                    "unit": "V",
+                    "name": "Versorgungsspannung",
+                    "value": 21.45
+                },
+                "lufttemperatur_avg": {
+                    "unit": "\u00b0C",
+                    "name": "Temperatur",
+                    "value": 10.19
+                },
+                "relative_luftfeuchte_avg": {
+                    "unit": "%",
+                    "name": "Luftfeuchtigkeit",
+                    "value": 85.9
+                },
+                "realtiver_luftdruck_avg": {
+                    "unit": "hPa",
+                    "name": "Luftdruck",
+                    "value": 1022.78
+                },
+                "windgeschwindigkeit_kmh_avg": {
+                    "unit": "km/h",
+                    "name": "Windgeschwindigkeit",
+                    "value": 10.76
+                },
+                "windrichtung_avg": {
+                    "unit": "\u00b0",
+                    "name": "Windrichtung",
+                    "value": 92.64
+                },
+                "niederschlagsintensitaet_avg": {
+                    "unit": "mm/h",
+                    "name": "Niederschlag",
+                    "value": 0.83
+                },
+                "fahrbahn_oberflaechen_temperatur_avg": {
+                    "unit": "\u00b0C",
+                    "name": "Temperatur Fahrbahn",
+                    "value": 8.73
+                },
+                "wasserfilmhoehe_auf_oberflaeche_avg": {
+                    "unit": "\u00b5m",
+                    "name": "Wasserfilmh\u00f6he",
+                    "value": 34.02
+                },
+                "eisprozent_avg": {
+                    "unit": "%",
+                    "name": "Eisprozent",
+                    "value": 0
+                }
+            },
+            "dateObserved": {
+                "__type": "Date",
+                "iso": "2023-01-04T10:36:06.000Z"
+            },
+            "valueArray": [
+                {
+                    "unit": "\u00b0C",
+                    "value": 8.6,
+                    "name": "Temperatur",
+                    "type": "lufttemperatur"
+                },
+                {
+                    "unit": "%",
+                    "value": 100,
+                    "name": "Luftfeuchtigkeit",
+                    "type": "relative_luftfeuchte"
+                },
+                {
+                    "unit": "hPa",
+                    "value": 1017.9,
+                    "name": "Luftdruck",
+                    "type": "realtiver_luftdruck"
+                },
+                {
+                    "unit": "km/h",
+                    "value": 54.8,
+                    "name": "Windgeschwindigkeit",
+                    "type": "windgeschwindigkeit_kmh"
+                },
+                {
+                    "unit": "\u00b0",
+                    "value": 323,
+                    "name": "Windrichtung",
+                    "type": "windrichtung"
+                },
+                {
+                    "unit": "mm/h",
+                    "value": 13.05,
+                    "name": "Niederschlag",
+                    "type": "niederschlagsintensitaet"
+                },
+                {
+                    "unit": "W/qm",
+                    "value": 18.1,
+                    "name": "Globalstrahlung",
+                    "type": "globalstrahlung"
+                },
+                {
+                    "unit": "V",
+                    "value": 23.9,
+                    "name": "Versorgungsspannung",
+                    "type": "versorgungsspannung"
+                },
+                {
+                    "unit": "W/qm",
+                    "value": 17.61,
+                    "name": "Globalstrahlung",
+                    "type": "globalstrahlung_avg"
+                },
+                {
+                    "unit": "V",
+                    "value": 21.45,
+                    "name": "Versorgungsspannung",
+                    "type": "versorgungsspannung_avg"
+                },
+                {
+                    "unit": "\u00b0C",
+                    "value": 10.19,
+                    "name": "Temperatur",
+                    "type": "lufttemperatur_avg"
+                },
+                {
+                    "unit": "%",
+                    "value": 85.9,
+                    "name": "Luftfeuchtigkeit",
+                    "type": "relative_luftfeuchte_avg"
+                },
+                {
+                    "unit": "hPa",
+                    "value": 1022.78,
+                    "name": "Luftdruck",
+                    "type": "realtiver_luftdruck_avg"
+                },
+                {
+                    "unit": "km/h",
+                    "value": 10.76,
+                    "name": "Windgeschwindigkeit",
+                    "type": "windgeschwindigkeit_kmh_avg"
+                },
+                {
+                    "unit": "\u00b0",
+                    "value": 92.64,
+                    "name": "Windrichtung",
+                    "type": "windrichtung_avg"
+                },
+                {
+                    "unit": "mm/h",
+                    "value": 0.83,
+                    "name": "Niederschlag",
+                    "type": "niederschlagsintensitaet_avg"
+                },
+                {
+                    "unit": "\u00b0C",
+                    "value": 8.73,
+                    "name": "Temperatur Fahrbahn",
+                    "type": "fahrbahn_oberflaechen_temperatur_avg"
+                },
+                {
+                    "unit": "\u00b5m",
+                    "value": 34.02,
+                    "name": "Wasserfilmh\u00f6he",
+                    "type": "wasserfilmhoehe_auf_oberflaeche_avg"
+                },
+                {
+                    "unit": "%",
+                    "value": 0,
+                    "name": "Eisprozent",
+                    "type": "eisprozent_avg"
+                }
+            ],
+            "objectId": "5ka5fYz5jAqWg6Sd"
+        }
+    ]
+}
